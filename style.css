@@ -1,0 +1,100 @@
+
+ ul {
+    list-style-type: none;
+  } 
+  .logo{
+    width:10%;
+  
+    
+  }
+  .logo img{
+    width:140%;
+  }
+
+  .ultag{
+    width:65%;
+  
+  }
+  .navbtn{
+    width:20%;
+    
+  }
+  .navbtn button:first-child
+  {
+    border: none;
+  }
+  .navbtn button:nth-child(2){
+    background-color:red;
+    border:none;
+    padding:10px;
+
+  } 
+  .ultag ul{
+    gap:10px
+  }
+  .center_image{
+    border: none;
+    outline: none;
+  }
+  .register_btn button:first-child
+  {
+    background-color: red;
+    color:white;
+    padding-right:40px;
+  }
+  .register_btn button:nth-child(2){
+    background-color:black;
+    color:white;
+ }
+ .color {
+  color: red;
+} 
+.white-box {
+    background-color: white;
+    color: black;
+    border: 5px;
+    width:80%;
+   
+}
+.search_btn{
+    background-color: red;
+    color:white;
+    
+
+}
+.easy_car{
+    display: flex;
+    justify-content: center;
+} 
+.rental_fleet{
+    display: flex;
+    justify-content: center; 
+}
+.align_heading{
+   padding-left:50px;
+}
+
+.title_table > tr > th {
+    background-color: red;
+}
+.title_table > tr > td {
+    background-color: grey;
+}
+.model_align > tr >th {
+ background-color: red;
+}
+.model_align > tr > td {
+  padding:1.8px;
+    
+}
+.reserve_btn{
+    background-color: red;
+    border:none;
+    color:white;
+    width:293px;
+    padding-top: 5px;
+    text-align:center;
+ 
+    
+    
+}
